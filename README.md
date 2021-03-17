@@ -26,11 +26,11 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
 </p>
 <br>
-<a href="https://github.com/jatinvats636">
+<p align="center">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova" />
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" />
-</a>
-<br>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" />
+</p>
 
 <!--
 - 🤔 I’m looking for help with 
