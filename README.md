@@ -1,5 +1,5 @@
-## Hello World 👋 I'm Jatin :man_technologist:
-
+<h1 align="center">Hello World 👋, I'm Jatin :man_technologist:</h1>
+<h3 align="center">A Web and mobile App Development Enthusiast</h3>
 
 - 🔭 I’m currently working on SimpleNotes(Note taking PWA)
 - 😄 I'm also working on B-Fit(Gym Management Android App)
