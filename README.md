@@ -6,16 +6,16 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on an open source project
 
+<p align="center">
+  <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" />
+</p>
+<br>
 <a href="https://github.com/jatinvats636">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=tokyonight&show_icons=true&hide=issues,contribs&count_private=true" />
 </a>
 <br>
 <a href="https://github.com/jatinvats636">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=tokyonight&show_icons=true&hide=issues,contribs&count_private=true" />
-</a>
-<br>
-<a href="https://github.com/jatinvats636">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
 </a>
 <br>
 <a href="https://github.com/jatinvats636">
