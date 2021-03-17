@@ -10,13 +10,10 @@
   <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" />
 </p>
 <br>
-<a href="https://github.com/jatinvats636">
+<p align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=tokyonight&show_icons=true&hide=issues,contribs&count_private=true" />
-</a>
-<br>
-<a href="https://github.com/jatinvats636">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
-</a>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
+</p>
 <br>
 <a href="https://github.com/jatinvats636">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova" />
