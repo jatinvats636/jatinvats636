@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello World 👋 I'm Jatin :man_technologist:
 
 
 - 🔭 I’m currently working on SimpleNotes(a simple note taking PWA)
