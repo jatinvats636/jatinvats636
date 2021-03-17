@@ -28,7 +28,7 @@
 <br>
 <a href="https://github.com/jatinvats636">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_stopwatch" />
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" />
 </a>
 <br>
 
