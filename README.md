@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on an open source project
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=blue-green&show_icons=true&hide=issues,contribs&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=tokyonight&show_icons=true&hide=issues,contribs&count_private=true)
 <br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=blue-green&layout=compact&langs_count=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4)
 <br><br>
-![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=blue-green&repo=jatinvats636)
+![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=jatinvats636)
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
