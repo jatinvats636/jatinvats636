@@ -10,7 +10,7 @@
 <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4)
 <br><br>
-![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=jatinvats636)
+![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova)
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
