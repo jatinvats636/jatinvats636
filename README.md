@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on an open source project
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=nightowl&show_icons=true&hide=prs,issues,contribs&count_private=true)
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=blue-green&show_icons=true&hide=issues,contribs&count_private=true)
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
