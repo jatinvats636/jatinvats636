@@ -10,8 +10,10 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
+<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jatinvats75" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatinvats525" height="30" width="40" /></a>
 <a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jatinvats525" height="30" width="40" /></a>
+<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jkvats" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -26,12 +28,12 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" />
 </p>
 <br>
-<p align="center">
+<!--<p align="center">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova" />
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" />
   <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" />
 </p>
-
+-->
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
@@ -39,3 +41,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
