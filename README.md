@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
 
-- 🔭 I’m currently working on SimpleNotes(Note taking PWA)
-- 😄 I'm also working on B-Fit(Gym Management Android App)
+- 🔭 I’m currently working on SimpleNotes( A Note-Taking PWA )
+- 😄 I'm also working on B-Fit( A Gym Management Android App )
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on an open source project
 
