@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Jatin :man_technologist:</h1>
+<h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
