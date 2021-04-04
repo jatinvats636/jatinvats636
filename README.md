@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on SimpleNotes( A Note-Taking PWA )
 - 😄 I'm also working on B-Fit( A Gym Management Android App )
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MEAN Stack
 - 👯 I’m looking to collaborate on an open source project
 
 <h4 align="left">Connect with me:</h4>
