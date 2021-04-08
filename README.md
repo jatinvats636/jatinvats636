@@ -11,7 +11,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/nolan/96/instagram-new.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="https://img.icons8.com/ios/100/000000/codepen.png" alt="jkvats" width="40" /></a></p>
+<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/nolan/96/instagram-new.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="/img/Codepen_4745716.svg" alt="jkvats" width="40" /></a></p>
 
 <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" /></p><br>
 
