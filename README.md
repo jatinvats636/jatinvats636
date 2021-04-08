@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1>
-<p align="center"><img src="https://img.icons8.com/fluent/48/000000/developer-mode.png" width="80"></p>
+<p align="center"><img src="/img/web-development-svg.svg" width="80"></p>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
