@@ -1,16 +1,17 @@
 <h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1>
+<p align="center"><img src="https://img.icons8.com/fluent/48/000000/developer-mode.png" width="80"></p>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
 
-- 🔭 I’m currently working on SimpleNotes( A Note-Taking PWA )
+- 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
 - 😄 I'm also working on B-Fit( A Gym Management Android App )
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on an open source project
+- 🌱 Learning MEAN Stack
+- 👯 Looking to collaborate on an open source project
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jatinvats75" height="30" width="40" /></a><a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatinvats525" height="30" width="40" /></a><a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jatinvats525" height="30" width="40" /></a><a href="https://codepen.io/jkvats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jkvats" height="30" width="40" /></a></p>
+<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/nolan/96/instagram-new.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="https://img.icons8.com/ios/100/000000/codepen.png" alt="jkvats" width="40" /></a></p>
 
 <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" /></p><br>
 
