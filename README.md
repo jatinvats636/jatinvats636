@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1>
+<h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1><br>
 <p id="dev-logo" align="center"><img src="/img/web-development-svg.svg" width="80"></p>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
