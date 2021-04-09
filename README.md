@@ -2,16 +2,16 @@
 <p id="dev-logo" align="center"><img src="/img/web-development-svg.svg" width="80"></p>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
+<!-- <h4 align="left">Connect with me:</h4> -->
+<p align="left">
+<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="img/Instagram_5296765.svg" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="/img/Codepen_4745716.svg" alt="jkvats" width="40" /></a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
 
 - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
 - 😄 I'm also working on B-Fit( A Gym Management Android App )
 - 🌱 Learning MEAN Stack
 - 👯 Looking to collaborate on an open source project
-
-<!-- <h4 align="left">Connect with me:</h4> -->
-<p align="left">
-<a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="img/Instagram_5296765.svg" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="/img/Codepen_4745716.svg" alt="jkvats" width="40" /></a></p>
 
 <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=tokyonight_duo&hide_border=true" /></p><br>
 
