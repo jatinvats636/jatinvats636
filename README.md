@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
 - 😄 I'm also working on B-Fit( A Gym Management Android App )
-- 🌱 Learning MEAN Stack
+<!-- 🌱 Learning MEAN Stack -->
 - 👯 Looking to collaborate on an open source project
 
 <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvats636&theme=cobalt&hide_border=true"></p>
