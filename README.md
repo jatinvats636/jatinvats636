@@ -20,7 +20,7 @@
 <p align="center"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=jatinvats636&theme=tokyonight&show_icons=true&hide=issues&count_private=true" />&nbsp;<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats636&theme=tokyonight&layout=compact&langs_count=4" /></p><br>
 <!--<p align="center"><img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Calculator_cordova" /><img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" /><img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinvats636&theme=tokyonight&repo=Stopwatch_cordova" /></p>
 -->
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=jatinvats636&theme=react-dark&hide_border=true" /></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=jatinvats636&theme=react-dark&hide_border=true&area=true" /></p>
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
