@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I'm Jatin :man_technologist:</h1><br>
-<p id="dev-logo" align="center"><img src="/img/bitmoji.jpg" width="80"></p>
+<p id="dev-logo" align="center"><img src="/img/bitmoji.png" width="80"></p>
 <h3 align="center">A Web and Mobile App Development Enthusiast</h3>
 
 <!-- <h4 align="left">Connect with me:</h4> -->
