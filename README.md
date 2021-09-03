@@ -10,8 +10,8 @@
 
 - 😄 `LAMP Stack` in progress.
 <!-- - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
-- 😄 I'm also working on B-Fit( A Gym Management Android App ) -->
-<!-- 🌱 Learning MEAN Stack
+- 🌱 I'm also working on B-Fit( A Gym Management Android App ) -->
+<!--
 - 👯 Looking to collaborate on an open source project-->
   <!-- https://github-readme-streak-stats.herokuapp.com?user=jatinvats636&theme=merko&background=00000000&stroke=2C9CDD&border=DD272700 -->
   <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com?user=jatinvats636&theme=nightowl&background=00000000&stroke=3C9CDD&hide_border=true"></p>
