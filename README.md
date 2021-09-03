@@ -7,10 +7,12 @@
 <a href="https://twitter.com/jatinvats75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="jatinvats75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/jatinvats525" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://instagram.com/jatinvats525" target="blank"><img align="center" src="img/Instagram_5296765.svg" alt="jatinvats525" width="40" /></a>&emsp;<a href="https://codepen.io/jkvats" target="blank"><img align="center" src="img/codepen.svg" alt="jkvats" width="40" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
+
+😄 `LAMP Stack` in progress.
+
 <!-- 
 - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
 - 🌱 I'm also working on B-Fit( A Gym Management Android App ) -->
-- 😄 LAMP Stack in progress.
 <!--- 👯 Looking to collaborate on an open source project-->
   <!-- https://github-readme-streak-stats.herokuapp.com?user=jatinvats636&theme=merko&background=00000000&stroke=2C9CDD&border=DD272700 -->
   <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com?user=jatinvats636&theme=nightowl&background=00000000&stroke=3C9CDD&hide_border=true"></p>
