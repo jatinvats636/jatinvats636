@@ -8,8 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
 
-- 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
-- 😄 I'm also working on B-Fit( A Gym Management Android App )
+- 😄 `LAMP Stack` in progress.
+<!-- - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
+- 😄 I'm also working on B-Fit( A Gym Management Android App ) -->
 <!-- 🌱 Learning MEAN Stack
 - 👯 Looking to collaborate on an open source project-->
   <!-- https://github-readme-streak-stats.herokuapp.com?user=jatinvats636&theme=merko&background=00000000&stroke=2C9CDD&border=DD272700 -->
