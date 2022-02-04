@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvats636&label=Profile%20views&color=025195&style=flat" alt="jatinvats636" /> </p>
 
-- 😄 `LAMP Stack` in progress.
-<!-- - 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
+<!-- - 😄 `LAMP Stack` in progress.
+- 🔭 Currently working on SimpleNotes( A Note-Taking PWA )
 - 🌱 I'm also working on B-Fit( A Gym Management Android App ) -->
 <!--
 - 👯 Looking to collaborate on an open source project-->
